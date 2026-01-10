@@ -1,0 +1,14 @@
+# GNOME shortcut name
+NAME="NanoTrader"
+
+# Used for descriptions and window class
+FULL_NAME="WHS NanoTrader"
+
+# The executable inside windows
+WIN_EXECUTABLE="C:\Users\%USERNAME%\AppData\Local\NanoTrader\NanoTrader.exe"
+
+# GNOME categories
+CATEGORIES="Office;WinApps;Stocks;Trading"
+
+# GNOME mimetypes
+MIME_TYPES=""
